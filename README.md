@@ -21,10 +21,6 @@ The task involves creating a user-friendly interface where users can input text 
 
 ### PROGRAM:
 ```
-NAME: Danica
-REG.NO : 212223240022
-```
-```
 import os, io, requests, gradio as gr
 from PIL import Image
 from dotenv import load_dotenv
